@@ -18,6 +18,32 @@ This project analyzes bank customer data to identify patterns that contribute to
    - Visualized churn by demographics and account features
    - Created bar plots and boxplots to identify patterns
 
+  #### Key Charts:
+
+**Churn Rate**  
+![Churn Rate](Images/churn_rate.png)
+
+**Churn by Gender**  
+![Churn by Gender](Images/churn_by_gender.png)
+
+**Churn by Age Group**  
+![Churn by Age Group](Images/churn_by_agegroup.png)
+
+**Churn by Country**  
+![Churn by Country](Images/churn_by_country.png)
+
+**Churn by Credit Score**  
+![Churn by Credit Score](Images/churn_by_credit_score.png)
+
+**Churn by Balance**  
+![Churn by Balance](Images/balance.png)
+
+**Churn by Products Number**  
+![Churn by Products Number](Images/churn_by_productsnumber.png)
+
+**Churn by Active Member**  
+![Churn by Active Member](Images/churn_by_activemembeer.png)
+
 3. **Insights & Recommendations**
    - Identified churn rate trends by data provided 
    - Suggested strategies for reducing churn:
@@ -31,6 +57,13 @@ This project analyzes bank customer data to identify patterns that contribute to
 - Customers utilizing products 3 and 4 are more likely to churn
 - Non-active customers are churning more frequently than active customers
 
+**Recommendations:**
+- Investigate and survey female customers aged 45-64 to understand why they are churning more frequently
+- Advertise to potential customers with higher credit scores
+- Offer incentives for German customers to continue services
+- Research into what is lacking in products 3 and 4 and why these are potentially causing more churn
+- Conduct target marketing to non-active customers to promote them to active customers
+  
 ## Tools Used
 - Python (pandas, matplotlib, seaborn)
 - Jupyter Notebook
