@@ -42,7 +42,7 @@ This project analyzes bank customer data to identify patterns that contribute to
 ![Churn by Products Number](Images/churn_by_productsnumber.png)
 
 **Churn by Active Member**  
-![Churn by Active Member](Images/churn_by_activemembeer.png)
+![Churn by Active Member](Images/churn_by_activemember.png)
 
 3. **Insights & Recommendations**
    - Identified churn rate trends by data provided 
